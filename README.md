@@ -38,3 +38,10 @@ Technology used for this project
 Django: For webframework for building RESTful APIs
 PostgreSQL: For database management and query.
 GraphQL, JavaScript
+
+# Database Design
+
+Bookings: Client Name, Properties, Location, size
+Reviews: reviews score, 
+Payments: Property, amount, size
+Users: Name, Birth date, country
