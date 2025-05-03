@@ -31,3 +31,10 @@ Selects appropriate tools and platforms to implement the product vision
 Sets up code quality standards and performs code reviews
 
 An architect is an expert-level software engineer who makes executive software design decisions on behalf of an app development team. You will need one if you deal with a software product with complex requirements or legacy software that calls for profound changes. A software architect decides which services and databases should communicate together, how integrations should work, and how to ensure that the product is secure and stable.
+
+# Technology Stack
+
+Technology used for this project
+Django: For webframework for building RESTful APIs
+PostgreSQL: For database management and query.
+GraphQL, JavaScript
