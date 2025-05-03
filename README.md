@@ -52,7 +52,17 @@ Users: Name, Birth date, country
 
 # Feature Breakdown
 
+User Management: Implement a secure system for user registration, authentication, and profile management.
+Property Management: Develop features for property listing creation, updates, and retrieval.
+Booking System: Create a booking mechanism for users to reserve properties and manage booking details.
+Payment Processing: Integrate a payment system to handle transactions and record payment details.
+Review System: Allow users to leave reviews and ratings for properties.
+Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
 # API Security
 
+Key security measures to be implemented include authentication to verify user identities, authorization to control access based on roles, and rate limiting to prevent abuse and denial-of-service attacks. Security is crucial to protect user data from breaches and to ensure safe and trusted transactions, especially in areas like payments and personal information handling.
+
 # CI/CD Pipeline
+
+CI/CD pipelines are automated processes that integrate code changes (Continuous Integration) and deploy them quickly and reliably (Continuous Deployment). They are important for the project because they ensure faster development cycles, reduce manual errors, and maintain consistent quality across environments. Tools like GitHub Actions for automation, Docker for containerization, and Jenkins or GitLab CI for pipeline orchestration can be used to implement effective CI/CD workflows.
