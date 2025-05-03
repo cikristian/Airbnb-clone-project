@@ -34,10 +34,14 @@ An architect is an expert-level software engineer who makes executive software d
 
 # Technology Stack
 
-Technology used for this project
-Django: For webframework for building RESTful APIs
-PostgreSQL: For database management and query.
-GraphQL, JavaScript
+Django: A high-level Python web framework used for building the RESTful API.
+Django REST Framework: Provides tools for creating and managing RESTful APIs.
+PostgreSQL: A powerful relational database used for data storage.
+GraphQL: Allows for flexible and efficient querying of data.
+Celery: For handling asynchronous tasks such as sending notifications or processing payments.
+Redis: Used for caching and session management.
+Docker: Containerization tool for consistent development and deployment environments.
+CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
 # Database Design
 
@@ -45,3 +49,10 @@ Bookings: Client Name, Properties, Location, size
 Reviews: reviews score, 
 Payments: Property, amount, size
 Users: Name, Birth date, country
+
+# Feature Breakdown
+
+
+# API Security
+
+# CI/CD Pipeline
